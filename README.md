@@ -28,7 +28,7 @@ I calculated the means, standard deviation and variances of the sample.
 ### Checking for Constant Variance and Normality
 ![Variance and Normality - Continental GDP](https://github.com/bwayvs/GlobalGDP_DataExploration/blob/main/images/Variance%20and%20Normalcy%20ANOVA%20GDP%20project.PNG)
 
-I created a dynamic Q-Q plot that can be updated for each of the 6 continents. Here, we see that North America's sample data has a normal distribution. I also checked for constant variance to ensure there were no predictible patterns in the variance. With this information, I was able to move on to hypothesis testing. 
+I created a dynamic Q-Q plot that can be updated for each of the 6 continents. Here, we see that North America's sample data has a normal distribution. I also checked for constant variance to ensure the spread was roughly equal for all groups. With this information, I was able to move on to hypothesis testing. 
 
 
 
