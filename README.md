@@ -1,6 +1,6 @@
 
 # Global GPD Data Exploration
-This project explores global Gross Domestic Product (GDP) data by nation and continent from 1999 through 2019 in Excel using ANOVA testing and regression analysis. Using this data, we can see that there is sufficient evidence that there are significant differences in mean of national and continental GDP. 
+This project explores global Gross Domestic Product (GDP) data by nation and continent from 1999 through 2019 in Excel using ANOVA testing and regression analysis. Using this data, we can see there is sufficient evidence that there are differences in mean of national and continental GDP. 
 
 
 
