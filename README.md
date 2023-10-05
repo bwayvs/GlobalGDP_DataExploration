@@ -50,7 +50,7 @@ Using a means plot, I was able to illustrate that Group 4 (Asia) had a much high
 
 
 ## 🚀 About Me
-I am a junior data analyst at an international law firm. I believe data tells us more than numbers. It helps us to understand the relationships between various elements, identify patterns and predict trends. I enjoy using data analysis to identify solutions to business problems. 
+I'm Veronica, a results-driven Data Analyst with expertise in SAP and process improvement. With a background in translating complex requirements into actionable insights, I leverage SQL, data visualization tools, and Agile methodologies to optimize supply chains and drive business decisions. My passion lies in turning data into meaningful business strategies, ensuring organizational alignment, and fostering cross-functional collaboration.
 
 
 ## 🔗 LinkedIn Profile
